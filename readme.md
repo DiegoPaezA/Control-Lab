@@ -6,7 +6,7 @@
 
 <p align="justify">This repository presents different examples focused on testing the operation of the different ESP32 functionalities using FreeRTOS. The examples have been validated using an ESP32 DEVKIT DOIT board and the documentation of each of the examples is being done to address the theoretical concepts of each of the topics addressed.</p>
 
-![Control Laboratory Kit - Control(Lab)](control-lab-pcb\control-lab_2.png)
+![Control Laboratory Kit - Control(Lab)](https://github.com/DiegoPaezA/Control-Lab/blob/main/control-lab-pcb/control-lab_2.png)
 
 ## References
 
