@@ -12,5 +12,3 @@
 
 Detailed description of the Control(Lab) can be find on the on the Article: [Comparative Study of PID, DMC, and Fuzzy PD+I Controllers in a Control Laboratory Kit]()
 
-
-The documentation will be published on my personal web page <https://www.mrdpaez.com>
