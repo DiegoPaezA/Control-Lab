@@ -118,7 +118,7 @@ ym1 = sim_model(x0)
 ym2 = sim_model(x)
 # plot results
 plt.figure()
-plt.rcParams['font.size'] = '20'
+plt.rcParams['font.size'] = '24'
 plt.subplot(2,1,1)
 plt.plot(t,yp,'kx-',linewidth=2,label='Process Data')
 plt.plot(t,ym1,'b-',linewidth=2,label='Matlab Initial Guess')
