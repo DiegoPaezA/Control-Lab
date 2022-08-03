@@ -1,3 +1,4 @@
+% Author: Diego R. Páez
 clc;clear;
 LB = 0.01*ones(1,4); % Lower bound
 UB = 2*ones(1,4); % Upper bound

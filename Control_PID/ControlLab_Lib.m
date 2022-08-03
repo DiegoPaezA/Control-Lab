@@ -1,4 +1,4 @@
-
+% Based on tclab - matlab library
 function TC = arduino_lab1(heater)
 persistent icount a
 
