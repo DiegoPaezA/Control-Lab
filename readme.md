@@ -10,5 +10,7 @@
 
 ## References
 
-Detailed description of the Control(Lab) can be find on the on the Article: [Comparative Study of PID, DMC, and Fuzzy PD+I Controllers in a Control Laboratory Kit]()
+Detailed description of the Control(Lab) can be find on the on the Article: [Comparative Study of PID, DMC, and Fuzzy PD+I Controllers in a Control Laboratory Kit](https://ieeexplore.ieee.org/document/9981589)
+
+D. P. Ardila, D. M. Reyes, C. V. Niño, R. Tanscheit and M. Vellasco, "Comparative Study of PID, DMC, and Fuzzy PD+I Controllers in a Control Laboratory Kit," 2022 IEEE Latin American Conference on Computational Intelligence (LA-CCI), Montevideo, Uruguay, 2022, pp. 1-6, doi: 10.1109/LA-CCI54402.2022.9981589.
 
